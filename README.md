@@ -1,4 +1,4 @@
-### --------------------- Princeton - Algorithms Part 2 ----------------------
+### ------------------------- Princeton - Algorithms Part 2 --------------------------
 <img src = "https://raw.githubusercontent.com/lehoangan2906/Algorithms--Part-II/main/Thumb.png">
 
 ---------------------------------------------------------------------------------------
